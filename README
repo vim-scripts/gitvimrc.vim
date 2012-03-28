@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3993
+
+When loading a buffer, this script will determine the root of the git repository containing the loaded file, and if it exists, source REPO_ROOT/.vimrc
